@@ -13,11 +13,25 @@ export default {
 <div class="container-d-flex">
     <div class="row fs-6 mb-4">
         <div class="col-11">
+            <p class="fs-3 title-text-psl"><b>GAMES&BONES</b></p>
+            <ul>
+                <li>“Games&Bones” nasce dall’esigenza di
+                trovare nuovi strumenti didattici,
+                individuati nelle tipologie di giochi, per
+                divulgare l’osteologia e le discipline
+                afferenti (storia, archeologia, matematica,
+                fisica, chimica, geologia, informatica,…)</li>
+            </ul>
+            <p>SCARICA LA BROCHURE<a href="game_and_bones.pdf" target="_blank">QUI</a></p>
+        </div>
+    </div>
+    <div class="row fs-6 mb-4">
+        <div class="col-11">
             <p class="fs-3 title-text-psl"><b>PER LA SCUOLA</b></p>
             <ul>
                 <li>Percorsi per le Competenze Trasversali e per l'Orientamento (PCTO)</li>
             </ul>
-            <p>SCARICA LA BROCHURE</a>
+            <!-- <a>SCARICA LA BROCHURE</a> -->
         </div>
     </div>
     <div class="row fs-6 mb-4">
@@ -29,7 +43,7 @@ export default {
                 <li>Attività ricreative - divulgative</li>
                 <li>Osteo - gite</li>
             </ul>
-            <p>SCARICA LA BROCHURE</a>
+            <!-- <a>SCARICA LA BROCHURE</a> -->
         </div>
     </div>
     <div class="row fs-6 mb-4">

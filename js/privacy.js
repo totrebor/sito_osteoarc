@@ -63,7 +63,7 @@ export default {
         </div>
     </div>
     <div class="row fs-6 mb-4">
-    <p class="fs-3 title-text-psl"><b>Coockies</b></p>
+    <p class="fs-3 title-text-psl"><b>Cookies</b></p>
         <div class="col-12">
             <ul>
                 <li>Premesse OSTEOARC - APS, con sede legale in via delle cascine 38 in Albizzate VA, in qualità di titolare del trattamento dei dati (“Titolare”), pubblica la seguente Cookie Policy, informativa per il trattamento dei cookie utilizzati dal sito Internet raggiungibile all’URL: http://www.osteoarc.it (“Sito”). Per tutto quanto non previsto dalla Cookie Policy si rinvia all'informativa in materia di trattamento dati. Utilizzando il sito l'utente accetta che vengano installati sul suo dispositivo i cookie "proprietari" e "di terze parti" indicati di seguito. Disabilitando tutti o alcuni cookie, alcune funzionalità del sito potrebbero non operare correttamente.</li>

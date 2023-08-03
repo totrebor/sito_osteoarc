@@ -34,7 +34,7 @@ export default {
   </div>
 </div>
 <div class="text-psl container-d-flex pt-3 bg-light mb-0">
-    <p class="text-center mb-0 motto-psl">Scarica lo statuto <a href="#">qui</a></p><br>
+    <p class="text-center mb-0 motto-psl">Scarica lo statuto <a href="statuto_osteoarc-aps.pdf" target="_blank">qui</a></p><br>
 </div>
 
 `
