@@ -22,7 +22,7 @@ export default {
                 afferenti (storia, archeologia, matematica,
                 fisica, chimica, geologia, informatica,…)</li>
             </ul>
-            <p>SCARICA LA BROCHURE<a href="game_and_bones.pdf" target="_blank">QUI</a></p>
+            <p>SCARICA LA BROCHURE <a href="games_and_bones.pdf" target="_blank">QUI</a></p>
         </div>
     </div>
     <div class="row fs-6 mb-4">
